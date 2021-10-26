@@ -1,0 +1,13 @@
+#demo:
+#  user:
+#    id: '111'
+#    name: 'aaa'
+#  number:
+#    value1: ${random.int}
+#    value2: ${random.long}
+#    value3: ${random.uuid}
+#swagger:
+#  enable: true
+##spring:
+##  profiles:
+##    active: dev
